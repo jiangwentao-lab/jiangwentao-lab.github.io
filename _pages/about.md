@@ -1,34 +1,84 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Liver Transplantation · Machine Perfusion · Liver Cancer · Organoids · Translational Medicine
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: wentao_jiang.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Translational Research Center for Medical Devices in Organ Transplantation</p>
+    <p>Tianjin Key Laboratory of Liver Cancer</p>
+    <p>Tianjin First Central Hospital</p>
+    <p>Nankai University/Tianjin Medical University</p>
+    <p>Tianjin, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: false
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to the **Jiang Laboratory**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Our laboratory focuses on **liver transplantation, organ preservation and machine perfusion, donor organ optimization, liver cancer, organoid models, and translational medicine**. We integrate clinical transplantation with experimental models and emerging technologies to develop new strategies for improving donor organ quality, understanding liver disease and cancer, and advancing personalized treatment.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Research Areas
+
+Our research program spans basic, translational, and clinical studies in liver disease and transplantation, with a particular focus on the following areas:
+
+### Liver Transplantation
+
+We conduct clinical and translational research aimed at improving graft function, perioperative management, and short- and long-term outcomes after liver transplantation. Our work includes studies on donor and recipient risk factors, graft recovery, postoperative complications, and transplant prognosis.
+
+### Organ Preservation & Machine Perfusion
+
+We investigate normothermic machine perfusion and related organ preservation technologies as platforms for graft assessment, functional recovery, therapeutic delivery, and organ reconditioning.
+
+Our research explores the use of ex vivo perfusion to evaluate and improve marginal donor organs before transplantation.
+
+### Donor Optimization & Graft Reconditioning
+
+We develop metabolic and pharmacological strategies to improve the quality and utilization of steatotic, marginal, and extended-criteria donor livers.
+
+Our studies focus on mechanisms of graft injury and recovery, including lipid metabolism, mitochondrial function, inflammation, oxidative stress, and cellular stress responses.
+
+### Liver Cancer & Transplant Oncology
+
+We study hepatocellular carcinoma and other hepatic malignancies, with particular interests in tumor biology, recurrence after liver transplantation, prognostic modeling, and personalized treatment strategies.
+
+We also explore the integration of clinical, pathological, molecular, and imaging data for risk prediction and precision oncology.
+
+### Organoids & Translational Medicine
+
+We develop patient-derived organoid models for disease modeling, drug-response assessment, and personalized therapy.
+
+Our research integrates organoid systems with **multi-omics, spatial biology, artificial intelligence, and advanced imaging technologies** to improve prediction of treatment response and to accelerate translational research in liver disease and liver cancer.
+
+## Our Approach
+
+Our laboratory integrates:
+
+- Clinical liver transplantation
+- Ex vivo organ perfusion
+- Experimental animal models
+- Cell and molecular biology
+- Patient-derived organoids
+- Multi-omics and spatial biology
+- Artificial intelligence and predictive modeling
+
+By combining these approaches, we aim to establish a translational research platform connecting clinical problems with mechanistic investigation and therapeutic development.
+
+## Our Mission
+
+Our goal is to bridge **clinical transplantation and laboratory research** and translate mechanistic discoveries and emerging technologies into practical strategies for organ preservation, graft optimization, cancer treatment, and improved patient outcomes.
