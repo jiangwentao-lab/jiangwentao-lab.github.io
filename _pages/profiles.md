@@ -53,7 +53,7 @@ nav_order: 3
 
 ### Zhoubo Guo (郭州博), MD, PhD
 
-**Tianjin Medical University**  
+**Tianjin First Central Hospital**  
 **Former External Academic Research Scientist (EARS), The University of Chicago**
 
 Research interests: **tumor immune microenvironment in hepatocellular carcinoma, organoids, bioinformatics, and translational research.**
