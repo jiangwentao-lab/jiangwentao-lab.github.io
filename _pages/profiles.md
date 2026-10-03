@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 ## Leadership
-
+<div style="height: 1.5rem;"></div>
 <div class="row align-items-center" style="margin-bottom: 5rem;">
   <div class="col-sm-3">
     <img src="{{ '/assets/img/wentao_jiang.jpg' | relative_url }}" class="img-fluid rounded" alt="Wentao Jiang">
@@ -47,7 +47,9 @@ nav_order: 3
 
 ---
 
+
 ## Lab Members
+
 
 ### Zhoubo Guo (郭州博), MD, PhD
 
@@ -56,6 +58,7 @@ nav_order: 3
 
 Research interests: **tumor immune microenvironment in hepatocellular carcinoma, organoids, bioinformatics, and translational research.**
 
+
 ### Kunning Zhang (张琨宁), MD, PhD Candidate
 
 **Nankai University**  
@@ -63,17 +66,20 @@ Research interests: **tumor immune microenvironment in hepatocellular carcinoma,
 
 Research interests: **normothermic machine perfusion, steatotic liver disease, and ischemia-reperfusion injury.**
 
+
 ### Wenjie Wu (武文捷), MD, PhD Candidate
 
 **Tianjin Medical University**
 
 Research interests: **NK cell-mediated antitumor immunity, hepatocellular carcinoma, and normothermic machine perfusion.**
 
+
 ### Qiming Zheng (郑啟明), MD, PhD Candidate
 
 **Tianjin Medical University**
 
 Research interests: **neuroendocrine tumor liver metastases and bioinformatics.**
+
 
 ### Zhiwei Xiong (熊志伟), MD, PhD Candidate
 
@@ -82,6 +88,7 @@ Research interests: **neuroendocrine tumor liver metastases and bioinformatics.*
 Research interests: **normothermic machine perfusion and steatotic liver disease.**
 
 ---
+
 
 ## Student Members
 
