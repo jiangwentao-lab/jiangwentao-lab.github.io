@@ -44,6 +44,6 @@ Tianjin, China
 .post-title,
 header.post-header h1,
 .post-header h1 {
-  font-weight: 600 !important;
+  font-weight: 1200 !important;
 }
 </style>
