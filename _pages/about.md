@@ -34,9 +34,8 @@ Selected representative publications from our group are available on the [Public
 We welcome students, researchers, and collaborators interested in liver transplantation, organ preservation, machine perfusion, liver cancer, organoids, and translational medicine.
 **Email:** jiangwentao@nankai.edu.cn
 
-**Jiang Laboratory**  
-Translational Research Center for Medical Devices in Organ Transplantation  
-Tianjin Key Laboratory of Liver Cancer  
+**Translational Research Center for Medical Devices in Organ Transplantation**  
+**Tianjin Key Laboratory of Liver Cancer**  
 Tianjin First Central Hospital  
 Nankai University / Tianjin Medical University  
 Tianjin, China  
