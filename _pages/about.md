@@ -27,7 +27,7 @@ The **Jiang Laboratory** is dedicated to advancing basic, translational, and cli
 
 ## Publications
 
-Selected representative publications from our group are available on the [Publications](/publications/) page.
+Selected representative publications from our group are available on the [PUBLICATION](/publications/) page.
 
 ## Contact / Join Us
 
