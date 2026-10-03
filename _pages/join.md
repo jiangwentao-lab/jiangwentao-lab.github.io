@@ -1,3 +1,25 @@
+---
+
+layout: page
+
+permalink: /join/
+
+title: JOIN US
+
+description: Join the Jiang Laboratory
+
+nav: true
+
+nav_order: 6
+
+---
+
+## Join the Jiang Laboratory
+
+Prospective students, researchers, and postdoctoral fellows interested in joining our laboratory may contact us by email with a brief introduction and curriculum vitae.
+
+<div style="height: 3rem;"></div>
+
 ## Contact
 
 <div style="
