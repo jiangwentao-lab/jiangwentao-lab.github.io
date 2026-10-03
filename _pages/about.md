@@ -39,3 +39,11 @@ We welcome students, researchers, and collaborators interested in liver transpla
 Tianjin First Central Hospital  
 Nankai University / Tianjin Medical University  
 Tianjin, China  
+
+<style>
+.post-title,
+header.post-header h1,
+.post-header h1 {
+  font-weight: 600 !important;
+}
+</style>
