@@ -2,38 +2,38 @@
 layout: page
 permalink: /people/
 title: PEOPLE
-description: Meet our team
+description: Lab Members
 nav: true
 nav_order: 3
 ---
 
-## Principal Investigators
+## Leadership
 
-<div class="row align-items-center mb-5">
+<div class="row align-items-center" style="margin-bottom: 5rem;">
   <div class="col-sm-3">
     <img src="{{ '/assets/img/wentao_jiang.jpg' | relative_url }}" class="img-fluid rounded" alt="Wentao Jiang">
   </div>
   <div class="col-sm-9">
     <h3>Wentao Jiang (蒋文涛), MD, PhD</h3>
-    <p><strong>Professor</strong><br>
+    <p><strong>Professor, Principal Investigator</strong><br>
     Tianjin First Central Hospital</p>
     <p>Dr. Jiang's research focuses on liver transplantation, organ preservation and machine perfusion, donor graft optimization, steatotic liver grafts, and transplant oncology.</p>
   </div>
 </div>
 
-<div class="row align-items-center mb-5">
+<div class="row align-items-center" style="margin-bottom: 5rem;">
   <div class="col-sm-3">
     <img src="{{ '/assets/img/jisan_sun.jpg' | relative_url }}" class="img-fluid rounded" alt="Jisan Sun">
   </div>
   <div class="col-sm-9">
     <h3>Jisan Sun (孙纪三), MD, PhD</h3>
-    <p><strong>Assistant Professor</strong><br>
+    <p><strong>Assistant Professor, Principal Investigator</strong><br>
     Tianjin First Central Hospital</p>
     <p>Dr. Sun's research focuses on liver transplantation, machine perfusion, donor organ preservation and optimization, hepatocellular carcinoma, and translational research.</p>
   </div>
 </div>
 
-<div class="row align-items-center mb-5">
+<div class="row align-items-center" style="margin-bottom: 5rem;">
   <div class="col-sm-3">
     <img src="{{ '/assets/img/chiyi_chen.jpg' | relative_url }}" class="img-fluid rounded" alt="Chiyi Chen">
   </div>
@@ -51,6 +51,7 @@ nav_order: 3
 
 ### Zhoubo Guo (郭州博), MD, PhD
 
+**Tianjin Medical University**  
 **Former External Academic Research Scientist (EARS), The University of Chicago**
 
 Research interests: **tumor immune microenvironment in hepatocellular carcinoma, organoids, bioinformatics, and translational research.**
@@ -82,6 +83,6 @@ Research interests: **normothermic machine perfusion and steatotic liver disease
 
 ---
 
-## Master's Students
+## Student Members
 
-Name · Name · Name · Name · Name
+Nan Yang (杨楠) · Jiaojiao He (贺姣姣) · Tianyou Li (李天游) · Zhaoqi Huang (黄钊琦)
