@@ -7,7 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-## Ongoing Projects
 
 ### Normothermic Machine Perfusion Combined with Hypericin Alleviates Donor Liver Steatosis via the HIF-1α/SERPINE1 Axis
 
@@ -58,7 +57,6 @@ nav_order: 2
 
 ---
 
-## Completed and Concluding Projects
 
 ### Clinical Value of mTOR Inhibitors after Liver Transplantation for GEP-NET Liver Metastases
 
