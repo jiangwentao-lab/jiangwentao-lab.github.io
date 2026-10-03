@@ -50,23 +50,42 @@ Tumor immune microenvironment in hepatocellular carcinoma · Bioinformatics
 <div style="
   border: 1px solid #e5e7eb;
   border-radius: 14px;
-  padding: 1.6rem 1.8rem;
-  margin-bottom: 2.2rem;
+  padding: 1.8rem 2rem;
+  margin-bottom: 2.5rem;
   box-shadow: 0 2px 10px rgba(0,0,0,0.04);
 ">
 
-<h2 style="margin-top: 0;">University of Macau</h2>
+<h2 style="margin-top: 0; margin-bottom: 1.2rem;">
+University of Macau
+</h2>
 
-<h3 style="margin-bottom: 0.3rem;">Vinay Tergaonkar, PhD</h3>
+<h3 style="margin-bottom: 0.8rem;">
+Vinay Tergaonkar, PhD
+</h3>
 
-<p style="margin-top: 0;">
-<strong>Faculty of Health Sciences, University of Macau</strong>
-</p>
+<div style="line-height: 1.8; margin-bottom: 1.6rem;">
+Chair Professor, Faculty of Medicine, University of Macau<br>
+Distinguished Principal Scientist, Agency for Science, Technology and Research (A*STAR), Singapore<br>
+Professor, Department of Biochemistry, National University of Singapore
+</div>
 
-<p>
-<strong>Collaborative Research</strong><br>
-Mechanisms of hepatocellular carcinoma metastasis · Patient-derived liver cancer organoids · Bioinformatics
-</p>
+<div style="
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.55;
+  margin-bottom: 0.7rem;
+">
+COLLABORATIVE PROJECTS · CO-PI
+</div>
+
+<div style="line-height: 1.9;">
+Transcriptional characteristics and evolutionary trajectory of hepatocellular carcinoma<br>
+Spatial metabolic niche of hepatocellular carcinoma<br>
+TNFR pathways and RNA-binding proteins in the progression of hepatocellular carcinoma<br>
+Patient-derived liver cancer organoids
+</div>
 
 </div>
 
